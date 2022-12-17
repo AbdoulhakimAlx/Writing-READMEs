@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-ALT-TEXT">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-ALT-TEXT">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-ALT-TEXT">
 </picture>
 
 <details>
@@ -20,4 +20,8 @@
 ### This is an h3.
 
 Isn't today a **wonderful** day?
+
+And in that moment I thought to myself: _Did I turn off the stove?_
+
+`code`
 
