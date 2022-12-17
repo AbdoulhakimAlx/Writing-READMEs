@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-ALT-TEXT">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-ALT-TEXT">
- <img alt="YOUR-ALT-TEXT" src="YOUR-ALT-TEXT">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-ALT-TEXT.JPG">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-ALT-TEXT.JPG">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-ALT-TEXT.JPG">
 </picture>
 
 <details>
